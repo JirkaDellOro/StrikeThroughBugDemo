@@ -1,6 +1,6 @@
 # StrikeThroughBugDemo
 
-Every second character is enclosed by format-marks in the markdown. They render correctly when displayed in github, but flawed in the jekyll export.
+Every second character is enclosed by format-marks in the markdown.  
 
 Using `~~`, all even numbers should appear with a strikethrough  
 1~~2~~3~~4~~5~~6~~7~~8~~9
